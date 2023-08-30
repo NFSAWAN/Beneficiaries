@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+ Beneficiaries
+
+  Created by Macbook on 20/07/2022.
+  
+*/
+
+"button_ok" = "Ok";
+"button_cancel" = "Cancel";
+"text_title_first_name" = "First Name: ";
+"text_title_last_name" = "Last Name: ";
+"text_title_bene_type" = "Beneficiary Type: ";
+"text_title_designation" = "Designation: ";
+"text_title_ssn" = "Social Security Number: ";
+"text_title_date_of_birth" = "Date of Birth: ";
+"text_title_phone_number" = "Phone Number: ";
+"text_title_address" = "Address: ";
+"text_title_beneficiaries" = "Beneficiaries";
+"text_title_beneficiary_detail" = "Beneficiary Detail";
+
